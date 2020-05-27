@@ -1,0 +1,43 @@
+body {
+    background-color: turquoise;
+}
+
+.conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+header {
+    height: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 170px;
+}
+
+main {
+    background-color: coral;
+    height: 350px;
+    background-image: url(images/skulptur.jpg);
+    background-size: cover;
+    background-position: center;
+    background-size: 600px;
+}
+
+a {
+    color: white;
+}
+
+nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
